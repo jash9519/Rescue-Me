@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Emergency2</string>
+
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+    <string name="title_activity_open_maps">Map</string>
+    <string name="title_activity_sell">sell</string>
+
+</resources>

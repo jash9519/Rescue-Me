@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "575530705502",
+    "firebase_url": "https://emergency2-ffed4.firebaseio.com",
+    "project_id": "emergency2-ffed4",
+    "storage_bucket": "emergency2-ffed4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575530705502:android:a89406df2b38cffd",
+        "android_client_info": {
+          "package_name": "com.example.saurabh.emergency2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575530705502-cnkjchilfm9hqat0amjm27575omtmk83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saurabh.emergency2",
+            "certificate_hash": "439db2b5c004d2d945c65e87d192fb0cf9015571"
+          }
+        },
+        {
+          "client_id": "575530705502-2gopkau2aip8rntnp3fr7rmfbp3gitil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW2xY9bVJUhKTRjOCZfsLKCoiz3bQjYUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575530705502-2gopkau2aip8rntnp3fr7rmfbp3gitil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
